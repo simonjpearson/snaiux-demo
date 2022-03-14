@@ -1,19 +1,11 @@
 ---
-title: This is my second post
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+title: 2.2 Subscription
+description: Subscription
+author: Jack Jackson
 date: 2020-09-02
-author: Surjith S M
 tags:
   - number-2
 ---
+Under this model, the author pays nothing with the cost of publishing being recovered through paid subscription to the journal. Remember, only those subscribing to the journal will be able to view it.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-## Section Header
-
-<a href="{{ '/posts/my-first-post/' | url }}">First post</a>
-<a href="{{ '/posts/my-third-big-post/' | url }}">Third post</a>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+**KEY FACT: BY 2021, SPRINGER NATURE HAD PUBLISHED ONE MILLION OPEN ACCESS ARTICLES**
